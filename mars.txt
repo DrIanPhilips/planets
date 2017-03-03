@@ -4,7 +4,6 @@
 3 The moons are interesting only during night 
 1 cold and dry, 
 1, warm sunny and wet
->>>>>>> efb9db4e2b96ad8c824b9a346cfc7bc04f39e562
 2, but is my favourite colour
 3, the moons are interesting 
 4. See meteor
