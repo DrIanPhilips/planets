@@ -1,6 +1,8 @@
 1 cold and hot,
 2 blue is my favourite colour
 3 The moons are interesting only during night 
-
- 
+1 cold and dry, 
+2, but is my favourite colour
+3, the moons are interesting 
+4. See meteor a667
 
